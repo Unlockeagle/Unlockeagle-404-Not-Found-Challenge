@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'Inconsolata';
+  src: url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&display=swap');
+}
+@font-face {
+  font-family: 'SpaceMono700';
+  src: url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&display=swap');
+}
+@font-face {
+  font-family: 'SpaceMono400';
+  src: url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+}
+@font-face {
+  font-family: 'Monserrat700';
+  src: url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+}
